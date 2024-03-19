@@ -2,8 +2,8 @@
 Name: 2212 920KV CCW Brushless Motor
 Part Number:
 ---
+![motor](Pasted%20image%2020240319141635.png)
 
-![](Pasted%20image%2020240319141028.png)
 
 | Attribute       | Value            |
 |-----------------|------------------|
