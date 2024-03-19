@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "e4901741c7065f17",
+    "type": "split",
+    "children": [
+      {
+        "id": "413902598f06c2fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be8e5ea121bb26ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "components/bldc motor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "55cc7ecd9abf8ac9",
+    "type": "split",
+    "children": [
+      {
+        "id": "4174330a8b6c80ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "753cfe61f6f5773f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1e0831fdd7a2b67e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1a43bd791e3f533e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "b12ec614c0750c00",
+    "type": "split",
+    "children": [
+      {
+        "id": "52d5023df058026c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "935b75dc84236de1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "components/bldc motor.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0ca133c9169bb639",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "components/bldc motor.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2cb78a61ccac75ab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c256912dfd50944a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "components/bldc motor.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "be8e5ea121bb26ce",
+  "lastOpenFiles": [
+    "Pasted image 20240319140707.png",
+    "system files (documentation tool)/templates/component template.md",
+    "components/bldc motor.md",
+    "system files (documentation tool)/templates",
+    "system files (documentation tool)",
+    "components"
+  ]
+}

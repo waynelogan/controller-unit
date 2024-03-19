@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "c02a703dd12092a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b0292f710bc28fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8622cae4b3d6c6e6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b0335d3238afb5bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "713b009334007a27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e184f0712f8ba6fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "45d7b1d73b422ba8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bd270fc110182364",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "de18df75e6c99987",
+    "type": "split",
+    "children": [
+      {
+        "id": "4083ffa8cd8a15c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b06a6349138f856e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24ea3a7183bd707e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "711618cf6ab46a25",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6961deb374b9c661",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e184f0712f8ba6fd",
+  "lastOpenFiles": [
+    "cache/Electronic Speed Controller.md",
+    "Welcome.md",
+    "cache/attachments/Pasted image 20240316143118.png",
+    "cache/attachments/Pasted image 20240316140656.png",
+    "cache/attachments",
+    "budget.md",
+    "cache",
+    "desktop.ini"
+  ]
+}
